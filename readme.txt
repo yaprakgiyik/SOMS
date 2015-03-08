@@ -1,0 +1,1 @@
+Bu proje öðrenci otomasyon sistemidir
